@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a voting systems demo program
-- 🌱 I’m currently learning javaFX and JDBC, poking about a bit with Rust
+- 🌱 I’m currently learning React and building my own website, poking about a bit with Rust
 
 <!--
 **ScottLovett/ScottLovett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
